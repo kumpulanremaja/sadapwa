@@ -19,3 +19,6 @@ kode perintah Proses sadap wa
 . exploit
 menjalankan perintah sadap wa
  dump_sms
+
+
+untuk informasi lengka cek di https://www.kumpulanremaja.com/2019/12/cara-sadap-chatting-whatsapp.html
